@@ -27,18 +27,31 @@ public class TESTSOURCETREE {
         
         
     }
+
      public String  delte(){
         
         String a = "DELETED"; 
+}
+    
+    public String  edit(){
+        
+        String a = "EDTED"; 
+
         
         return a; 
         
         
     }
+
       public String  delte2(){
         
         String a = "DELETED2"; 
+
+      }
+    public String  edit2(){
         
+        String a = "EDTED2"; 
+     
         return a; 
         
         
