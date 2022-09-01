@@ -31,6 +31,7 @@ public class TESTSOURCETREE {
      public String  delte(){
         
         String a = "DELETED"; 
+         return a; 
 }
     
     public String  edit(){
@@ -43,11 +44,12 @@ public class TESTSOURCETREE {
         
     }
 
-      public String  delte2(){
+    public String  delte2(){
         
         String a = "DELETED2"; 
+         return a; 
 
-      }
+    }
     public String  edit2(){
         
         String a = "EDTED2"; 
