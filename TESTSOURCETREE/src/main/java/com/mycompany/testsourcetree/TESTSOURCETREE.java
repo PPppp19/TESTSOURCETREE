@@ -58,4 +58,20 @@ public class TESTSOURCETREE {
         
         
     }
+    
+       public String  feature2(){
+        
+        String a = "feature2"; 
+     
+        return a; 
+        
+        
+           public String  feature3(){
+        
+        String a = "feature3"; 
+     
+        return a; 
+        
+        
+    }
 }
