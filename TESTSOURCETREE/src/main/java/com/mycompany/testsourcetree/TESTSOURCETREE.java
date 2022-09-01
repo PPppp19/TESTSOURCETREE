@@ -27,4 +27,12 @@ public class TESTSOURCETREE {
         
         
     }
+     public String  delte(){
+        
+        String a = "DELETED"; 
+        
+        return a; 
+        
+        
+    }
 }
