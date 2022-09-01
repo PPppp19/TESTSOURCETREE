@@ -35,4 +35,12 @@ public class TESTSOURCETREE {
         
         
     }
+      public String  delte2(){
+        
+        String a = "DELETED2"; 
+        
+        return a; 
+        
+        
+    }
 }
